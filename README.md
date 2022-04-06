@@ -15,7 +15,7 @@
 
 
 ### Prazer em ter você por aqui!  
-Desenvolvedor Java / SQL estou atualmente trabalhando com com o framework SoulMV da MV Sistemas, empresa que desenvolve sistemas para área de saúde.
+Desenvolvedor Java / SQL estou atualmente trabalhando com SQL dentro do postgresql na GIF + oracle da MV Sistemas, a GIF é uma empresa que desenvolveu um plataforma de gestão de faturamento inteligente para área de saúde e se integra diretamente aos clientes MV entre outros ERP's diferentes também, mas que precisam de uma gestão eficiente em faturamento de contas.
 
 Gosto muito de tudo que tem tecnologia envolvida desde um simples app até as aplicações que se comunicam com as máquinas.
 
